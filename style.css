@@ -71,7 +71,7 @@
     box-shadow: rgba(255, 255, 255, 0.24) 0px 3px 4px;
 }
 
-.previous-btn,.play-btn,.next-btn{
+.previous-btn,.play-btn,.next-btn,.pause-btn{
     cursor: pointer;
 }
 

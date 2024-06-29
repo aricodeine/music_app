@@ -3,7 +3,7 @@ let music_data = [
      "music_id":101,
      "type":"Instrumental",
      "name":"Without You",
-     "artist":'Arijit Singh',
+     "artist":'Best Artist',
      "srcUrl": './assets/audio/music1.mp3',
      "imageUrl": "./assets/images/music1.jpg"
      },
@@ -11,7 +11,7 @@ let music_data = [
      "music_id":102,
      "type":"Instrumental",
      "name":"Without You",
-     "artist":'Arijit Singh',
+     "artist":'Best Artist',
      "srcUrl": './assets/audio/music1.mp3',
      "imageUrl": "./assets/images/music1.jpg"
      },
@@ -19,7 +19,7 @@ let music_data = [
      "music_id":103,
      "type":"Instrumental",
      "name":"Without You",
-     "artist":'Arijit Singh',
+     "artist":'Best Artist',
      "srcUrl": './assets/audio/music1.mp3',
      "imageUrl": "./assets/images/music1.jpg"
      },
@@ -27,7 +27,7 @@ let music_data = [
      "music_id":104,
      "type":"Instrumental",
      "name":"Without You",
-     "artist":'Arijit Singh',
+     "artist":'Best Artist',
      "srcUrl": './assets/audio/music1.mp3',
      "imageUrl": "./assets/images/music1.jpg"
      },
@@ -35,7 +35,7 @@ let music_data = [
      "music_id":105,
      "type":"Instrumental",
      "name":"Without You",
-     "artist":'Arijit Singh',
+     "artist":'Best Artist',
      "srcUrl": './assets/audio/music1.mp3',
      "imageUrl": "./assets/images/music1.jpg"
      },
