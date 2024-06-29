@@ -1,0 +1,82 @@
+.music-card-container{
+    height: fit-content;
+    width: fit-content;
+    background-color: black;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 60px;
+}
+
+.music-card-container-header {
+    padding: 10px;
+    display: flex;
+    cursor: pointer;
+    justify-content: space-between;
+}
+
+.music-card-container-header svg:first-child{
+    position: relative;
+    left: -20%;
+}
+
+.music-card-container-header svg:last-child{
+    position: relative;
+    right: -20%;
+}
+
+.music-details{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.music-details .music-out-of-text, .music-type,.music-artist{
+    color: white;
+}
+
+.music-image{
+    height: 200px;
+    width: 200px;
+}
+
+.music-out-of-text{
+    padding: 10px 0;
+}
+
+.music-name{
+    padding: 30px 0;
+    font-family: "Playwrite CA", cursive;
+    color: rgb(221, 149, 4);
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.music-artist{
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+}
+
+.music-controls-container{
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+}
+
+.music-controls-container>*{
+    padding: 0 20px;
+    margin: 0 5px;
+    box-shadow: rgba(255, 255, 255, 0.24) 0px 3px 4px;
+}
+
+.previous-btn,.play-btn,.next-btn{
+    cursor: pointer;
+}
+
+.music-progress-indicator {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
